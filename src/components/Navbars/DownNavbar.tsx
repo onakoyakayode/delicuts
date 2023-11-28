@@ -71,7 +71,7 @@ const DownNavbar = () => {
         <motion.nav
           animate={isOpen ? "open" : "closed"}
           variants={variants}
-          className="flex flex-col justify-normal items-center gap-2 text-[#d1c5c5] text-[14px] h-[70dvh] pt-[2%] bg-background-main absolute left-0 top-[50px] z-20 w-full"
+          className="flex flex-col justify-normal items-center gap-2 text-[#d1c5c5] text-[14px] h-[90dvh] pt-[2%] bg-background-main absolute left-0 top-[50px] z-20 w-full"
         >
           {links.map((link, idx) => (
             <li

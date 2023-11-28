@@ -22,7 +22,7 @@ const Layout = ({ children }: LayoutProps) => {
       <div className="top-[70px] lg:top-[120px] relative mb-[70px] lg:mb-[120px] w-full">
         {children}
       </div>
-      <Link href="" className="fixed right-[3%] bottom-4 z-20">
+      <Link href="" className="fixed right-[3%] bottom-4 z-50">
         <IoLogoWhatsapp className="text-[#25D366] w-[40px] h-[40px] bg-primaryText rounded-full p-[1px] object-cover " />
       </Link>
       <Footer />
