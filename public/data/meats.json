@@ -1,0 +1,129 @@
+[
+    {
+      "meatCuts": {
+        "Cow": {
+          "id": 1,
+          "name": "Beef Meat",
+          "pricePerKg": 4000,
+          "slots": [
+            {
+             "type":  "Full-Slot",
+             "price": 500000
+            },{
+             "type": "Half-Slot",
+             "price": 250000
+            },
+            {
+                "type":"Quarter-Slot",
+                "price": 125000
+            },
+            {
+                "type": "1/8 Slot",
+                "price": 62500
+            },
+            {
+                "type": "1/10 Slot",
+                "price": 50000
+            },
+            {
+                "type": "1/20 Slot",
+                "price": 25000
+            }, 
+            {
+                "type": "1/40 Slot",
+                "price": 12500
+            }
+          ],
+          "SpecialCowRequest": {
+            "name": "Special Cow Request",
+            "items": [
+                { 
+                    "type": "Whole Assorted", 
+                    "price": 50000
+                }, 
+                {
+                    "type": "Half Assorted",
+                    "price": 25000
+                },
+                {
+                    "type": "Cow Head",
+                    "price": 50000
+                },
+                {
+                    "type": "4 Cow Leg",
+                    "price": 15000
+                },
+                {
+                    "type": "Cow Tail",
+                    "price": 15000
+                }
+            ]
+          },
+          "images": [
+            "https://images.pexels.com/photos/17178424/pexels-photo-17178424/free-photo-of-sparkles-around-meat.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/9541976/pexels-photo-9541976.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+            "https://images.pexels.com/photos/5774153/pexels-photo-5774153.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+          ],
+          "content": "They're prized for their juicy, rich taste and can be seasoned and cooked in various ways, offering a satisfying meaty experience."
+        },
+        "Ram": {
+          "id": 2,
+          "name": "Ram Meat",
+          "pricePerKg": 5000,
+          "slots": [
+            {
+              "type":"Full-Slot", 
+              "price": 100000
+            },
+            {
+              "type": "Half-Slot", 
+              "price": 50000
+            },
+            {
+              "type": "Quarter-Slot",
+              "price": 25000
+            },
+            {
+              "type":"1/8 Slot",
+              "price": 12500
+            }
+          ],
+          "images": [
+            "https://images.pexels.com/photos/8477074/pexels-photo-8477074.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/9541962/pexels-photo-9541962.jpeg?auto=compress&cs=tinysrgb&w=800"
+          ],
+          "content": "A succulent cut known for its tenderness and rich flavor. This versatile meat option is ideal for various cooking methods, offering delightful culinary possibilities."
+        },
+        "Goat": {
+          "id": 3,
+          "name": "Goat Meat",
+          "pricePerKg": 4500,
+          "slots": [
+            {
+              "type":"Full-Slot", 
+              "price": 50000
+            },
+            {
+              "type":"Half-Slot",
+              "price": 25000
+            },
+            {
+              "type": "Quarter-Slot", 
+              "price": 12500
+            },
+            {
+             "type": "1/8 Slot", 
+             "price": 6250
+            }
+          ],
+          "images": [
+            "https://images.pexels.com/photos/13279350/pexels-photo-13279350.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+            "https://images.pexels.com/photos/5774147/pexels-photo-5774147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+            "https://images.pexels.com/photos/8477074/pexels-photo-8477074.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+          ],
+          "content": "A tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration."
+        }
+      }
+    }
+]

@@ -1,0 +1,40 @@
+
+
+[
+    {
+        "id": 1,
+        "title": "The Art of Grilling: Unveiling the Perfect Cuts",
+        "content": "Summer might be over, but that doesn't mean we can't enjoy a good barbecue year-round! At DeliCuts Meats, we understand the importance of quality cuts for the perfect grilling experience. In our latest blog post, we dive into the art of grilling and unveil the secret behind selecting the best cuts of meat for your barbecue. From marbling and tenderness to seasoning tips, discover how DeliCuts Meats can elevate your grilling game.",
+        "link" : "/",
+        "date": "2023-11-15",
+        "icons": {
+            "calender": "AiOutlineCalendar",
+            "message": "LuMessageSquare"
+        },
+        "image": "https://images.unsplash.com/photo-1551028150-64b9f398f678?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWVhdCd8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": 2,
+        "title": "Exploring Exotic Cuts: A Culinary Adventure with DeliCuts",
+        "content": "Embark on a culinary adventure with DeliCuts Meats as we explore exotic cuts that will tantalize your taste buds. From Wagyu beef to specialty sausages, our latest offerings promise a gastronomic journey like no other. Join us as we delve into the world of unique flavors and textures, showcasing how DeliCuts Meats can turn an ordinary meal into an extraordinary experience.",
+        "link": "/",
+        "date": "2023-04-15",
+        "icons": {
+            "calender": "AiOutlineCalendar",
+            "message": "LuMessageSquare"
+        },
+        "image": "https://images.unsplash.com/photo-1602470520998-f4a52199a3d6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1lYXQnfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 3,
+        "title": "DeliCuts Meats: Behind the Scenes of Quality Assurance",
+        "content": "Ever wondered what goes into ensuring the top-notch quality of the meats you bring home? DeliCuts Meats opens its doors to take you behind the scenes of our quality assurance process. From sourcing to packaging, discover the meticulous steps we take to guarantee that every cut meets our highest standards. Join us on a journey of transparency and excellence in meat craftsmanship.",
+        "link": "/",
+        "date": "2024-01-21",
+        "icons": {
+            "calender": "AiOutlineCalendar",
+            "message": "LuMessageSquare"
+        },
+        "image": "https://plus.unsplash.com/premium_photo-1668616815228-6a8c0b8f116c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1lYXQnfGVufDB8fDB8fHww"
+    }
+]

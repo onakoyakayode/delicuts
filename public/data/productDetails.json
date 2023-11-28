@@ -1,0 +1,239 @@
+[
+    {
+        "meatCuts": {
+            "goat": {
+                "id": 1,
+                "cuts": [
+                    {
+                        "name": "Goat Lap",
+                        "pricePerKg": 3800,
+                        "images": [
+                          "https://images.pexels.com/photos/13279350/pexels-photo-13279350.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+                          "https://images.pexels.com/photos/5774147/pexels-photo-5774147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+                          "https://images.pexels.com/photos/8477074/pexels-photo-8477074.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+                          ],
+                          "content": "a tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration"
+                    },
+                    {
+                        "name": "Goat Leg",
+                        "pricePerKg": 4200,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "a tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration"
+                    },
+                    {
+                        "name": "Goat Ribs",
+                        "pricePerKg": 3500,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "a tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration"
+                    },
+                    {
+                        "name": "Goat Chops",
+                        "pricePerKg": 4500,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "a tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration"
+                    },
+                    {
+                        "name": "Goat Head",
+                        "pricePerKg": 2000,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "a tender and flavorful cut, offers versatility in various cooking styles, making it a delightful option for culinary exploration"
+                    },
+                    {
+                      "name": "Full Goat",
+                      "price": 60000
+                    },
+                    {
+                      "name": "Half Goat",
+                      "price": 30000
+                    },
+                    {
+                      "name": "1/4 Goat",
+                      "price": 15000
+                    },
+                    {
+                      "name": "1/8 Goat",
+                      "price": 7500
+                    }
+                    
+                ]
+            },
+            "ram": {
+                "id": 2,
+                "cuts": [
+                    {
+                        "name": "Ram Lap",
+                        "pricePerKg": 4000,
+                        "images": [
+                            "https://images.pexels.com/photos/8477074/pexels-photo-8477074.jpeg?auto=compress&cs=tinysrgb&w=800",
+                            "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=800",
+                            "https://images.pexels.com/photos/9541962/pexels-photo-9541962.jpeg?auto=compress&cs=tinysrgb&w=800"
+                          ],
+                          "content": "A succulent cut known for its tenderness and rich flavor. This versatile meat option is ideal for various cooking methods, offering delightful culinary possibilities."
+                    },
+                    {
+                        "name": "Ram Leg",
+                        "pricePerKg": 4400,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "A tender, flavorful cut suitable for diverse cooking styles, offering delightful culinary options."
+                    },
+                    {
+                        "name": "Ram Ribs",
+                        "pricePerKg": 3700,
+                        
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "A succulent cut known for its tenderness and rich flavor. This versatile meat option is ideal for various cooking methods, offering delightful culinary possibilities."
+                    },
+                    {
+                        "name": "Ram Chops",
+                        "pricePerKg": 4800,
+                        
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "A tender, flavorful cut suitable for diverse cooking styles, offering delightful culinary options."
+                    },
+                    {
+                        "name": "Ram Head",
+                        "pricePerKg": 3000,
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "A succulent cut known for its tenderness and rich flavor. This versatile meat option is ideal for various cooking methods, offering delightful culinary possibilities.."
+                    },
+                    {
+                      "name": "Full Ram",
+                      "price": 150000
+                    },
+                    {
+                      "name": "Half Ram",
+                      "price": 75000
+                    },
+                    {
+                      "name": "1/4",
+                      "price": 37500
+                    },
+                    {
+                      "name": "1/8",
+                      "price": 18750
+                    }
+                ]
+            },
+            "cow": {
+                "id": 3,
+                "cuts": [
+                    {
+                        "name": "Cow Rib",
+                        "pricePerKg": 3500,
+                        "images": [
+                          "https://images.pexels.com/photos/17178424/pexels-photo-17178424/free-photo-of-sparkles-around-meat.jpeg?auto=compress&cs=tinysrgb&w=800",
+                          "https://images.pexels.com/photos/9541976/pexels-photo-9541976.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+                          "https://images.pexels.com/photos/5774153/pexels-photo-5774153.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+                          ],
+                          "content": "They're prized for their juicy, rich taste and can be seasoned and cooked in various ways, offering a satisfying meaty experience."
+                    },
+                    {
+                      "name": "Cow Laps",
+                      "pricePerKg": 4000,
+                      "images": [
+                          "/images/goat_shoulder_1.jpg",
+                          "/images/goat_shoulder_2.jpg",
+                          "/images/goat_shoulder_3.jpg"
+                        ],
+                           
+                        "content": "A richly marbled, versatile cut perfect for slow-cooking methods like roasting or braising. It's ideal for stews and roasts, delivering a robust beefy flavor."
+                      },
+                    {
+                        "name": "Cow Leg",
+                        "pricePerKg": 4000,
+                       
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                            "content": "A versatile cut, great for flavorful stews and soups due to its rich taste and tenderness when cooked slowly."
+                        },
+                    {
+                        "name": "Cow Limbs",
+                        "pricePerKg": 3800,
+                        
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "Offering a blend of lean meat and marbling, cow limbs are versatile cuts ideal for various dishes. "
+                    },
+                    {
+                        "name": "Cow Head",
+                        "pricePerKg": 4200,
+                        
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "This unconventional cut holds a wealth of rich, flavorful meat. Often used in traditional dishes worldwide, it offers unique textures and robust taste, perfect for creating hearty soups or stews."
+                    },
+                    {
+                        "name": "Sirloin Steak",
+                        "pricePerKg": 5000,
+                        
+                        "images": [
+                            "/images/goat_shoulder_1.jpg",
+                            "/images/goat_shoulder_2.jpg",
+                            "/images/goat_shoulder_3.jpg"
+                          ],
+                          "content": "Juicy and tender, this cut from the cow's rear offers rich flavor and is perfect for grilling."
+                    }
+                    ,
+                    {
+                      "name": "Full Cow",
+                      "price": 600000
+                    },
+                    {
+                      "name": "Half Cow",
+                      "price": 300000
+                    },
+                    {
+                      "name": "1/4 Cow",
+                      "price": 150000
+                    },
+                    {
+                      "name": "1/8 Cow",
+                      "price": 75000
+                    }
+                ]
+            }
+        }
+
+    }
+]

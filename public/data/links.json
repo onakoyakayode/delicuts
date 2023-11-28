@@ -1,0 +1,23 @@
+[
+    {
+        "text": "Home",
+        "url": "/"
+    },
+    {
+        "text": "Products",
+        "url": "/Products"
+    },
+    {
+        "text": "Order",
+        "url":"/order"
+    },
+    {
+        "text": "Blog",
+        "url":"/"
+    },
+    {
+        "text": "About Us",
+        "url": "/AboutUs"
+    }
+]
+

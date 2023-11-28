@@ -2,13 +2,39 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+@import "animate.css/animate.min.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil+Supplement&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700;1,900&family=Roboto:wght@400;500;700;900&display=swap");
+@font-face {
+  font-family: "Zuume Rough";
+  src: url(../assets/fonts/ZuumeRough-Bold.woff2);
+  font-style: normal;
+  font-weight: normal;
 }
 
-@media (prefers-color-scheme: dark) {
+@layer base {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+/* :root {
+  --background-main: #400101;
+  --primaryText: #ffffff;
+  --background-fill: #101010;
+  --secondary-bg: #bf0514;
+  --border-col: #957051;
+} */
+
+body {
+  font-family: "Noto Sans Tamil Supplement", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+/* @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
     --background-start-rgb: 0, 0, 0;
@@ -24,4 +50,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */

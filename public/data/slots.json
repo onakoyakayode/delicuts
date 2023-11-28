@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Cow Meat",
+        "slots": [
+            {
+                "Full Slot": 500000,
+        "Half Slot": 250000,
+        "Quarter Slot": 125000,
+        "1/8 Slot": 62500,
+        "1/10 Slot": 50000,
+        "1/20 Slot": 25000,
+        "1/40 Slot": 12500
+            }
+        ],
+        "pricePerKg": 4000,
+        "specialRequest": [
+            {
+                "Whole Assorted": 50000,
+                "Half Assorted": 25000,
+                "Cow Head": 50000,
+                "4 Cow Leg": 15000,
+                "Cow Tail": 15000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ram Meat",
+       "slots": [{
+        "Full Slot": 100000,
+        "Half Slot": 50000,
+        "Quarter Slot": 25000,
+        "1/8 Slot": 12500
+       }],
+       "pricePerKg": 5000
+    },
+    {
+        "id": 3,
+        "name": "Goat Meat",
+        "slots": [{
+            "Full Slot": 50000,
+        "Half Slot": 25000,
+        "Quarter Slot": 12500,
+        "1/8 Slot": 6250
+        }],
+        "pricePerKg": 4500
+    }
+]

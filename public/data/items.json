@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Beef Meat",
+    "pricePerKg": 4000,
+    "pricePerSlot": 25000,
+    "totalSlots": 25,
+    "weight": 0,
+    "icon": "/icons/beef.png",
+    "image": "/images/beef.jpg",
+    "content": "From farm to table, savor the excellence in every bite."
+  },
+  {
+    "id": 2,
+    "name": "Ram Meat",
+    "pricePerKg": 5000,
+    "pricePerSlot": 17000,
+    "totalSlots": 10,
+    "weight": 0,
+    "icon": "/icons/lamb.png",
+    "image": "/images/lamb.jpg",
+    "content": "Discover the exquisite taste of our ram meat"
+  },
+  {
+    "id": 3,
+    "name": "Goat Meat",
+    "pricePerKg": 4500,
+    "pricePerSlot": 10000,
+    "totalSlots": 6,
+    "weight": 0,
+    "icon": "/icons/lamb.png",
+    "image": "/images/goat.jpg",
+    "content": "Embark on a journey of culinary delight with our premium goat meat"
+  },
+  {
+    "id": 4,
+    "name": "Antelope Meat",
+    "pricePerKg": 8000,
+    "pricePerSlot": 15000,
+    "totalSlots": 5,
+    "weight": 0,
+    "icon": "/icons/antelope.png",
+    "image": "/images/goat.jpg",
+    "content": "Experience the wild sophistication of our antelope meat"
+  },
+  {
+    "id": 5,
+    "name": "Alligator Meat",
+    "pricePerKg": 10000,
+    "pricePerSlot": 20000,
+    "totalSlots": 2,
+    "weight": 0,
+    "icon": "/icons/alligator.png",
+    "image": "/images/abtMeat.jpg",
+    "content": "Dive into a culinary escapade with our alligator meat"
+  },
+  {
+    "id": 6,
+    "name": "Grasscutter Meat",
+    "pricePerKg": 25000,
+    "pricePerSlot": 25000,
+    "totalSlots": 1,
+    "weight": 0,
+    "icon": "/icons/grasscutter.png",
+    "image": "/images/abtMeat.jpg",
+    "content": "Delight in the exquisite taste of our grasscutter meat, a delicacy born from the heart of nature"
+  },
+  {
+    "id": 7,
+    "name": "Pork Meat",
+    "pricePerKg": 6000,
+    "pricePerSlot": 15000,
+    "totalSlots": 8,
+    "weight": 0,
+    "icon": "/icons/pig.png",
+    "image": "/images/pork.jpg",
+    "content": "Savor the timeless perfection of our pork – a symphony of succulence and flavor"
+  },
+  {
+    "id": 8,
+    "name": "Turkey",
+    "pricePerKg": 6000,
+    "pricePerSlot": 7000,
+    "totalSlots": 5,
+    "weight": 0,
+    "icon": "/icons/chicken.png",
+    "image": "/images/chicken.jpg",
+    "content": "Indulge in the wholesome goodness of our turkey meat – a feast for the senses and a tradition on your plate"
+  },
+  {
+    "id": 9,
+    "name": "Chicken",
+    "pricePerKg": 3500,
+    "pricePerSlot": 6000,
+    "totalSlots": 5,
+    "weight": 0,
+    "icon": "/icons/chicken.png",
+    "image": "/images/chicken.jpg",
+    "content":"From farm to fork, our commitment to quality ensures every bite is a savory celebration."
+  }
+]

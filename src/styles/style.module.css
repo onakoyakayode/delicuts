@@ -1,0 +1,28 @@
+.heroBg {
+  background: url(../assets/images/hero-min-2.jpg) center/cover no-repeat;
+  width: 100%;
+}
+
+.shopExp {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url("https://plus.unsplash.com/premium_photo-1668616815670-3755f5ddee40?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVhdCd8ZW58MHwwfDB8fHww")
+      bottom/cover no-repeat;
+}
+
+.feedback {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
+    url("https://images.unsplash.com/photo-1623241899289-e9a64b02150d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1lYXQnfGVufDB8MHwwfHx8MA%3D%3D")
+      center/cover no-repeat;
+}
+
+.aboutUs {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)),
+    url("https://images.unsplash.com/photo-1547050605-2f268cd5daf0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")
+      center/cover no-repeat;
+}
+
+.products {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)),
+    url("https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D")
+      top/cover no-repeat;
+}
