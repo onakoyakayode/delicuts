@@ -84,6 +84,7 @@ const Blogs: React.FC = () => {
                   height={200}
                   src={blog.image}
                   alt={blog.title}
+                  priority
                   className="w-full h-[200px] object-cover mb-[10px]"
                 />
                 <div className="px-[15px]">
@@ -100,9 +101,9 @@ const Blogs: React.FC = () => {
                       0
                     </p>
                   </div>
-                  <p className=" text-secondaryText text-[13px] w-full h-[100px] overflow-hidden">
+                  <div className=" text-secondaryText text-[13px] w-full h-[100px] overflow-hidden">
                     <div className="line-clamp-4">{blog.content}</div>
-                  </p>
+                  </div>
                   <Link
                     href={blog.link}
                     className="uppercase text-[#bf0514] text-[12px] font-semibold tracking-wider"

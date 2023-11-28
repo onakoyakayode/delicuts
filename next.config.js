@@ -7,6 +7,10 @@ module.exports = nextConfig;
 
 module.exports = {
   images: {
-    domains: ["images.unsplash.com", "plus.unsplash.com", "images.pexels.com"],
+    domains: [
+      "images.unsplash.com",
+      "plus.unsplash.com",
+      "https://images.pexels.com/*",
+    ],
   },
 };

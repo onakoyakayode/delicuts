@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Link from "next/link";
 import HomePage from "./HomePage";
 import { useEffect, useState } from "react";
 import BoardingScreen from "@/components/BoardingScreen";
@@ -23,7 +22,7 @@ export default function Home() {
     <main className="relative">
       <Head>
         <title>Delicuts</title>
-        <Link rel="icon" href="../assets/images/delicuts.png" />
+        <link rel="icon" href="../assets/images/delicuts.png" />
       </Head>
       {showBoarding && <BoardingScreen />}
       {!showBoarding && <HomePage />}

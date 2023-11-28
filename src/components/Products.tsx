@@ -69,6 +69,7 @@ const Products: React.FC = () => {
                 alt={product.name}
                 width={200}
                 height={300}
+                priority
                 className="w-[100%] h-[100%] object-cover relative top-[15px] lg:top-[25px] left-[-10px] lg:left-[-20px]"
               />
             </div>

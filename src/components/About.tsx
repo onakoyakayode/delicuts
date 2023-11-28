@@ -29,6 +29,7 @@ const About = () => {
                   src={beef}
                   alt="beef-delicuts"
                   className="w-[30px] lg:w-[50px] h-[30px] lg:h-[50px] object-cover"
+                  priority
                 />
                 <div className="flex flex-col items-start gap-2  text-secondaryText font-Lato">
                   <h3 className="text-[17px] lg:text-[20px] leading-[120%] font-semibold ">
@@ -43,7 +44,10 @@ const About = () => {
                 <Image
                   src={Lamb}
                   alt="turkey-delicuts"
+                  width={30}
+                  height={30}
                   className="w-[30px] lg:w-[50px] h-[30px] lg:h-[50px] object-cover"
+                  priority
                 />
                 <div className="flex flex-col items-start gap-2  text-secondaryText font-Lato">
                   <h3 className="text-[17px] lg:text-[20px] leading-[120%] font-semibold">
@@ -58,7 +62,10 @@ const About = () => {
                 <Image
                   src={Turkey}
                   alt="turkey-delicuts"
+                  width={30}
+                  height={30}
                   className="w-[30px] lg:w-[50px] h-[30px] lg:h-[50px] object-cover"
+                  priority
                 />
                 <div className="flex flex-col items-start gap-2  text-secondaryText font-Lato">
                   <h3 className="text-[17px] lg:text-[20px] leading-[120%] font-semibold ">
@@ -74,7 +81,10 @@ const About = () => {
               <Image
                 src={AboutMeat}
                 alt="delicuts"
+                width={30}
+                height={30}
                 className="w-[100%] h-[100%] z-10 absolute lg:left-[-35px] lg:top-[25px]"
+                priority
               />
             </div>
           </div>

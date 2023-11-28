@@ -42,6 +42,7 @@ const Partners = () => {
               width={60}
               height={60}
               className="w-[30px] h-[30px]"
+              priority
             />
             <p className="text-[0.9rem] lg:text-[1.4rem] leading-[1.3rem] tracking-widest text-[#d9a273] w-full lg:w-[40%] uppercase font-bold ">
               {partner.title}

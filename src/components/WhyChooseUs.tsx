@@ -81,6 +81,7 @@ const WhyChooseUs = () => {
                 alt="delicut"
                 width={450}
                 height={350}
+                priority
                 className="w-[100%] h-[300px] lg:h-[350px] object-cover"
               />
             </div>

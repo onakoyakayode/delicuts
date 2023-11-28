@@ -62,6 +62,7 @@ const ItemList: React.FC = () => {
                 height={50}
                 src={item.icon}
                 alt={item.image}
+                priority
                 className="w-[50px] h-[50px] object-cover mb-[15px] lg:mb-[20px]"
               />
               <h3 className="text-[0.9rem] lg:text-[1.2rem] leading-normal mb-[10px] lg:mb-[15px] capitalize tracking-[1px] font-Lato font-medium ">
