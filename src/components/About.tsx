@@ -20,8 +20,8 @@ const About = () => {
 
   return (
     <div className=" bg-background-fill px-[30px] lg:px-[200px] flex flex-col lg:flex-row justify-start lg:justify-center items-center py-[50px] lg:py-[100px]">
-      <div className="flex items-start justify-normal">
-        <AnimationOnScroll animateIn="animate__slideInLeft">
+      <div className="flex items-center lg:items-start justify-center lg:justify-normal w-full">
+        <AnimationOnScroll animateIn="animate__slideInLeft" className="w-full">
           <div className="flex flex-col gap-3 lg:gap-0 lg:flex lg:justify-normal items-start lg:items-end w-full">
             <div className="flex flex-col items-start gap-2 lg:gap-4 z-20 w-full">
               <div className="py-[15px] px-3 flex justify-center items-start bg-background-main gap-3 lg:gap-6 h-[75px] lg:h-[100px] w-full lg:w-[250px]">
@@ -81,8 +81,8 @@ const About = () => {
               <Image
                 src={AboutMeat}
                 alt="delicuts"
-                width={30}
-                height={30}
+                width={300}
+                height={300}
                 className="w-[100%] h-[100%] z-10 absolute lg:left-[-35px] lg:top-[25px]"
                 priority
               />
